@@ -1,0 +1,14 @@
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\bin\Debug\net8.0\JethroPart.exe
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\bin\Debug\net8.0\JethroPart.deps.json
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\bin\Debug\net8.0\JethroPart.runtimeconfig.json
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\bin\Debug\net8.0\JethroPart.dll
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\bin\Debug\net8.0\JethroPart.pdb
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.AssemblyInfoInputs.cache
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.AssemblyInfo.cs
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.csproj.CoreCompileInputs.cache
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.dll
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\refint\JethroPart.dll
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.pdb
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.genruntimeconfig.cache
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\ref\JethroPart.dll
