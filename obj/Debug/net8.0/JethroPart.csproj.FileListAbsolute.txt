@@ -12,3 +12,4 @@ C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES
 C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.pdb
 C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.genruntimeconfig.cache
 C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\ref\JethroPart.dll
+C:\Users\Jethro\College\3rd year\SUMMER\INTEGRATIVE PROGRAMMING AND TECHNOLOGIES\PROJECT SA INTEG\JethroPart\obj\Debug\net8.0\JethroPart.sourcelink.json

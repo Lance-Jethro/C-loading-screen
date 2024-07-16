@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JethroPart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f806d7a8ca86de5a1c3fa2372986aa0f944796d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe245a7b205ad59aebc57215b477ca6bb219dde")]
 [assembly: System.Reflection.AssemblyProductAttribute("JethroPart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JethroPart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
